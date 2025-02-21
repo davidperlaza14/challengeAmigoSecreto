@@ -20,13 +20,13 @@ Este proyecto es una aplicación web sencilla que permite a los usuarios agregar
 1. Clona este repositorio en tu máquina local:
    
 bash
-   git clone https://github.com/tu-usuario/amigo-secreto.git
+   git clone https://github.com/davidperlaza14/challengeAmigoSecreto
 
 2. Abre el archivo index.html en tu navegador.
 3. Ingresa nombres en el campo de texto y presiona "Añadir".
 4. Una vez que hayas agregado todos los nombres, presiona "Sortear Amigo" para elegir uno al azar.
 
-5. [🎥 Ver video de demostración](assets/Amigo-secretro.mp4)
+5. [🎥 Ver video de demostración](assets/Amigo-secreto.mp4)
 
 ## Archivos Principales
 - **index.html:** Contiene la estructura de la aplicación.
