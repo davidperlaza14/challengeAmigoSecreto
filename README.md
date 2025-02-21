@@ -26,7 +26,7 @@ bash
 3. Ingresa nombres en el campo de texto y presiona "Añadir".
 4. Una vez que hayas agregado todos los nombres, presiona "Sortear Amigo" para elegir uno al azar.
 
-5. [🎥 Ver video de demostración](assets/Amigo-secreto.mp4)
+5. [🎥 Ver video de demostración](https://youtu.be/T9gxVJ6O4sM)
 
 ## Archivos Principales
 - **index.html:** Contiene la estructura de la aplicación.
